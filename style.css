@@ -9,6 +9,13 @@
 body{
     background-color: #000000;
 }
+.text-logo {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    font-family: 'Inter', sans-serif;
+}
+
 .main{
     background-image: url("assets/Images/bg1.jpg");
     background-position: center center;
